@@ -1,0 +1,30 @@
+.main_div{
+    justify-content: center;
+}
+.insidediv{
+    border: 2px solid black;
+    width: 800px;
+    height: 500px;
+    margin: auto;
+    background-color: rgb(122, 200, 231);
+    border-radius: 15px;
+    padding-top: auto;
+}
+button{
+    display: block;
+    font-weight: bolder;
+    font-size: large;
+    background-color: red;
+    width: 300px;
+    height: 40px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+img{
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+}
